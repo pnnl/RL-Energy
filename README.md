@@ -9,6 +9,8 @@ Machine learning for process system design
 A reinforcement learning (RL) based automated system for chemical engineering systems conceptual design is introduced and demonstrated in this project. An artificial intelligence (AI) agent performs the conceptual design by automatically deciding which process-units are necessary for the desired system, picking the process-units from the candidate process-units pool (CPP), connecting them together, and optimizing the operation of the system for the user-defined system performance targets. The AI agent automatically selects units from the user-defined CPPs, connects them to construct flowsheets, and optimizes the system design according to the user’s desired objective. The AI agent automatically interacts with a physics-based system-level modeling and simulation toolset, the Institute for the Design of Advanced Energy System (IDAES) Integrated Platform, to guarantee the system design is physically consistent.
 
 Three examples, hydrodealkylation of toluene (HDA), methanol synthesis systems and reduced order model (ROM) of solid oxide fuel cell multi-physics (SOFC-MP) model are provided to get started with the RL model. See Installation section and readme file in each example folder for more details.
+
+The technical details are introduced in the jouranl article Energy Adv., 2023, 2, 1735-1751 (https://pubs.rsc.org/en/content/articlehtml/2023/ya/d3ya00310h)
 ## Installation
 
 The following libraries are needed.
