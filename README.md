@@ -10,7 +10,7 @@ A reinforcement learning (RL) based automated system for chemical engineering sy
 
 Three examples, hydrodealkylation of toluene (HDA), methanol synthesis systems and reduced order model (ROM) of solid oxide fuel cell multi-physics (SOFC-MP) model are provided to get started with the RL model. See Installation section and readme file in each example folder for more details.
 
-The technical details are introduced in the jouranl article Energy Adv., 2023, 2, 1735-1751 (https://pubs.rsc.org/en/content/articlehtml/2023/ya/d3ya00310h)
+The technical details are introduced in the journal article Energy Adv., 2023, 2, 1735-1751 (https://pubs.rsc.org/en/content/articlehtml/2023/ya/d3ya00310h)
 ## Installation
 
 The following libraries are needed.
